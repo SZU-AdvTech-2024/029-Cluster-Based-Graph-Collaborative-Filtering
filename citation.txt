@@ -1,0 +1,8 @@
+@article{REPO029,
+    author = "Liu, Fan and Zhao, Shuai and Cheng, Zhiyong and Nie, Liqiang and Kankanhalli, Mohan",
+    journal = "ACM Transactions on Information Systems",
+    number = "6",
+    title = "{Cluster-Based Graph Collaborative Filtering}",
+    volume = "42",
+    year = "2024"
+}
